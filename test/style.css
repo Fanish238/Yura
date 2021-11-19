@@ -57,7 +57,7 @@ body {
     box-shadow: 1px 1px 11px 1px rgba(0, 0, 0, 0.462);
 
     /* wallpaper */
-    background-image: url(/img/CodeWallpaper.jpg);
+    background-image: url(./img/CodeWallpaper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center ;
